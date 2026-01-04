@@ -1,4 +1,4 @@
-# 📘 Project 1: Domain-Adaptive BERT Fine-Tuning for News Classification
+# Domain-Adaptive BERT Fine-Tuning for News Classification
 
 ## 🔍 Overview
 This project demonstrates how **Domain-Adaptive Pretraining (DAPT)** improves downstream NLP performance by continuing **Masked Language Modeling (MLM)** on unlabeled, in-domain text before supervised fine-tuning.
